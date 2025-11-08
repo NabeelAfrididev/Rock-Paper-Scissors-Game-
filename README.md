@@ -1,8 +1,6 @@
 # Rock-Paper-Scissors-Game-
 This Is My First Project.
 
-<h1>Rock Paper Scissors Game</h1>
-
 A fun and interactive Rock Paper Scissors web app built using HTML, CSS, and JavaScript.
 This project lets users play against the computer in a simple, clean, and responsive interface.
 
